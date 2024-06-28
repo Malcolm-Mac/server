@@ -12,8 +12,8 @@ import lombok.NoArgsConstructor;
 
 import static jakarta.persistence.GenerationType.AUTO;
 
-@Entity
 @Data
+@Entity
 @NoArgsConstructor
 @AllArgsConstructor
 public class Server {
